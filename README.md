@@ -40,7 +40,7 @@ It allows users to record expenses, set budgets, track spending and monitor thei
 
 ### 1. Clone the repository
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone  https://github.com/darshan-pr983/PaisaPlan-Expense-Budget-Management-System
 ```
 
 ### 2. Setup Backend
